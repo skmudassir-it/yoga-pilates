@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:oklch(0.50 0.16 160 / 0.08)"/>
+      <stop offset="100%" style="stop-color:oklch(0.72 0.10 320 / 0.05)"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <rect width="400" height="300" fill="white" opacity="0.3"/>
+  <g transform="translate(200,150)" fill="none" stroke="oklch(0.50 0.16 160)" stroke-width="2" opacity="0.3">
+    M-25-20 Q0-50 25-20 Q35 10 15 25 Q0 40-15 25 Q-35 10-25-20
+  </g>
+  <text x="200" y="276" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="oklch(0.50 0.03 160)">Prenatal Yoga</text>
+</svg>

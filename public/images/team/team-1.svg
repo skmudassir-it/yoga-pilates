@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" style="stop-color:oklch(0.50 0.16 160)"/>
+      <stop offset="100%" style="stop-color:oklch(0.38 0.12 160)"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="200" rx="100" fill="url(#g)"/>
+  <text x="100" y="108" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="700" font-size="80.0" fill="white">AS</text>
+</svg>

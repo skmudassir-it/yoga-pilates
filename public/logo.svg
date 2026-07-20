@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:oklch(0.50 0.16 160)"/>
+      <stop offset="100%" style="stop-color:oklch(0.68 0.13 85)"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(2,8)">
+    <circle cx="12" cy="12" r="12" fill="oklch(0.50 0.16 160)" opacity="0.15"/>
+    <path d="M12 2 C8 4 4 8 2 12 C4 16 8 20 12 22 C16 20 20 16 22 12 C20 8 16 4 12 2Z" fill="oklch(0.50 0.16 160)"/>
+    <circle cx="12" cy="12" r="4" fill="white"/>
+  </g>
+  <text x="34" y="26" font-family="system-ui,sans-serif" font-weight="700" font-size="18" fill="oklch(0.22 0.03 160)">ZenFlow</text>
+</svg>
